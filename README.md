@@ -1,18 +1,16 @@
 # atom_shortcuts
 
-- Split Pane
+- **Split Pane**
   - cmd + K, (up/down/left/right arrow)
-- Close Pane
+- **Close Pane**
   - cmd + W
-- Save File
-  - cmd + S
-- New File
-  - cmd + N
-- Move Line
+- **Move Line**
   - ctrl + cmd + (up/down)
-- Toggle Comment
+- **Toggle Comments**
  - cmd + /
-- Find next instance
+- **Find Next Instance**
   - cmd + D
-- Multi Cursor
+- **Multi Cursor**
   - cmd + click
+- **Select Line**
+  - cmd + L
