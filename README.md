@@ -14,3 +14,5 @@
   - cmd + click
 - **Select Line**
   - cmd + L
+- **Toggle Directory Tree**
+  - cmd + \
